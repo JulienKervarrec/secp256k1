@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à les opérations cryptographiques optimisées sur la courbe secp256k1 utilisées par Bitcoin est disponible dans [docs/fr/](docs/fr/).
+
 libsecp256k1
 ============
 
